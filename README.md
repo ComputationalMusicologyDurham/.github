@@ -1,2 +1,2 @@
-# .github
-Computational Musicology at Durham University
+# Computational Musicology Durham
+Information and material around Computational Musicology research at Durham University
